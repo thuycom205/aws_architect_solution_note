@@ -5,3 +5,6 @@ https://kodecamps.com/understanding-aws-cidr/
 
 
 https://kodecamps.com/understanding-aws-cloudformation-capabilities-parameter/
+
+
+https://kodecamps.com/how-to-use-the-cloudformation-to-automatically-provision-a-wordpress-website/
